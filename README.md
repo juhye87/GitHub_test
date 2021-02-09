@@ -7,3 +7,12 @@ my first repository
   
 - 아앙
 
+#코드 입력
+```
+#icnlude<stdio.h>
+
+int main(){
+  printf("김주혜바보\n");
+  return 0;
+}
+```
