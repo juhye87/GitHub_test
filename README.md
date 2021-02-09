@@ -7,8 +7,8 @@ my first repository
   
 - 아앙
 
-#코드 입력
-```
+# 코드 입력
+```c
 #icnlude<stdio.h>
 
 int main(){
