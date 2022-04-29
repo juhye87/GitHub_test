@@ -12,7 +12,7 @@ my first repository
 #icnlude<stdio.h>
 
 int main(){
-  printf("김주혜바보\n");
+  printf("김주혜\n");
   return 0;
 }
 ```
