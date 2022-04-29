@@ -9,7 +9,7 @@ my first repository
 
 # 코드 입력
 ```c
-#icnlude<stdio.h>
+#include<stdio.h>
 
 int main(){
   printf("김주혜\n");
