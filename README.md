@@ -5,7 +5,6 @@ my first repository
   - 안녕
   - 하이
   
-- 아앙
 
 # 코드 입력
 ```c
